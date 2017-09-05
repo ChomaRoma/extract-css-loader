@@ -1,0 +1,22 @@
+{
+  "name": "extract-css-loader",
+  "version": "0.0.1",
+  "description": "",
+  "main": "extract-css-loader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sass",
+    "css",
+    "extract",
+    "webpack",
+    "loader"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ChomaRoma/extract-css-loader.git"
+  },
+  "author": "choma-roma",
+  "license": "MIT"
+}
